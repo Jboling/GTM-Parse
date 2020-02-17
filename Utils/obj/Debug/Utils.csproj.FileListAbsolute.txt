@@ -1,0 +1,8 @@
+C:\Users\john.boling\RiderProjects\GTM Parse\Utils\bin\Debug\Utils.dll
+C:\Users\john.boling\RiderProjects\GTM Parse\Utils\bin\Debug\Utils.pdb
+C:\Users\john.boling\RiderProjects\GTM Parse\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\john.boling\RiderProjects\GTM Parse\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\john.boling\RiderProjects\GTM Parse\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\john.boling\RiderProjects\GTM Parse\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\john.boling\RiderProjects\GTM Parse\Utils\obj\Debug\Utils.dll
+C:\Users\john.boling\RiderProjects\GTM Parse\Utils\obj\Debug\Utils.pdb

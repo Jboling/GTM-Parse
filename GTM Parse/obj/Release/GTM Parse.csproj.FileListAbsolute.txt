@@ -1,0 +1,8 @@
+C:\Users\john.boling\RiderProjects\GTM Parse\GTM Parse\bin\Release\GTM_Parse.exe
+C:\Users\john.boling\RiderProjects\GTM Parse\GTM Parse\bin\Release\GTM_Parse.pdb
+C:\Users\john.boling\RiderProjects\GTM Parse\GTM Parse\obj\Release\GTM Parse.csprojAssemblyReference.cache
+C:\Users\john.boling\RiderProjects\GTM Parse\GTM Parse\obj\Release\GTM_Parse.exe
+C:\Users\john.boling\RiderProjects\GTM Parse\GTM Parse\obj\Release\GTM_Parse.pdb
+C:\Users\john.boling\RiderProjects\GTM Parse\GTM Parse\bin\Release\Newtonsoft.Json.xml
+C:\Users\john.boling\RiderProjects\GTM Parse\GTM Parse\obj\Release\GTM Parse.csproj.CopyComplete
+C:\Users\john.boling\RiderProjects\GTM Parse\GTM Parse\obj\Release\GTM Parse.csproj.Fody.CopyLocal.cache
